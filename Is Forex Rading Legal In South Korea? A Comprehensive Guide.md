@@ -66,7 +66,7 @@ To trade forex legally in South Korea, follow these steps:
 
 ### 1. Choose a Regulated Broker
 Select a broker licensed by the FSC or a reputable international broker that complies with South Korean regulations. Examples of trusted brokers include:
-- **IG Group**: Known for its robust platform and regulatory compliance.
+- **Exness**: Known for its robust platform and regulatory compliance.
 - **Saxo Bank**: Offers a wide range of forex pairs and tools.
 - **OANDA**: Popular for its user-friendly interface and transparency.
 
@@ -79,6 +79,10 @@ Most brokers require:
 - A bank account for deposits and withdrawals.
 
 Some brokers may also ask for additional documentation to comply with AML and KYC regulations.
+
+![Exness Logo](https://d3dpet1g0ty5ed.cloudfront.net/EN_Spreads_Save_20on_20every_20trade_8_1_Google_800x800.jpg)
+
+💥 **Trade with Exness now**: [Open An Account](https://one.exnesstrack.org/boarding/sign-up/a/89rj8di4n7) or [Visit Brokers](https://one.exnesstrack.org/a/89rj8di4n7)
 
 ### 3. Understand Leverage and Margin Rules
 South Korea imposes strict leverage limits for retail forex traders to minimize risk. The maximum leverage is typically **10:1** for major currency pairs, though this may vary by broker. Ensure you understand margin requirements to avoid margin calls.
