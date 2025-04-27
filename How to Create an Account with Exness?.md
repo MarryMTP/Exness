@@ -38,7 +38,7 @@ Follow these steps to successfully register and set up your Exness account. The 
 
 ### Step 1: Visit the Exness Website
 
-To start, **Register Exness**: [Open An Account](https://one.exnesstrack.org/boarding/sign-up/a/89rj8di4n7) or [Visit Brokers](https://one.exnesstrack.org/a/89rj8di4n7). Alternatively, you can download the Exness mobile app from the Google Play Store (for Android) or the App Store (for iOS).
+To start, **Register Exness**: [Open An Account](https://one.exnesstrack.org/boarding/sign-up/a/89rj8di4n7) or [Visit Brokers](https://one.exnesstrack.org/a/89rj8di4n7).
 
 ### Step 2: Fill in the Registration Form
 
